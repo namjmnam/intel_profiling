@@ -44,16 +44,34 @@ https://culturalatlas.sbs.com.au/south-african-culture/south-african-culture-eti
 
 ### 지리
 https://www.cia.gov/the-world-factbook/countries/south-africa/\
-https://www.cia.gov/the-world-factbook/countries/south-africa/summaries/
+https://www.cia.gov/the-world-factbook/countries/south-africa/summaries/\
+주요 도시\
+수도가 행정, 사법, 입법의 3개로 분리되어있음\
+프리토리아(행정수도)\
+블룸폰테인(사법수도)\
+케이프타운(입법수도)\
+요하네스버그\
+두르반\
+포트엘리자베스\
+이스트런던
+
+국경\
+북부에 나미비아, 보츠와나, 짐바브웨\
+동북부에 모잠비크, 에스와티니\
+내륙국으로 레소토
 
 ### 안전
+강력 범죄율이 상당히 높은 편임\
+인종 및 성별 기반의 범죄율이 높음\
+재산 보안에 신경을 쓰는 편임\
 에이즈 문제가 있음
 
 ### 언어
 줄루어 23%\
 코사어 16%\
 아프리칸스어 14%\
-영어 9.6%
+영어 9.6%\
+포르투갈 사용자가 점점 늘어가는 중
 
 ### 역사
 지역 원주민들과 유럽의 이민자들과의 갈등 ~1795\
