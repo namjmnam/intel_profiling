@@ -2,12 +2,21 @@
 
 ### 관습
 각 문화권마다 다른 관습\
-아프리카너: 브라이(braai)라 불리는 남아공 바베큐 식문화\
+다양성으로 인해 분류하는것은 의미가 없으며 오히려 민감한 문제임\
+식문화\
+브라이(braai) - 바베큐\
+부다보스(droewors), 빌통(biltong) - 말린 고기\
+밀크타르트 - 페이스트리 디저트\
+쿠크시스터즈(koesisters) - 꽈배기형 도넛
+
 3월 21일에 인권의 날 휴일\
-주요 관심사: 럭비, 크리켓, 축구\
+9월 24일을 브라이데이라고 부를 정도\
+팁문화가 있음
+
+주요 관심사\
+럭비, 크리켓, 축구\
 야간 스탠드업 코미디 클럽 문화가 발달되어있음\
 재즈 및 록 라이브 공연장이 많음\
-https://www.youtube.com/watch?v=3e0efg6DEQ8\
 https://www.trafalgar.com/real-word/ultimate-guide-south-african-braai/
 
 ### 정치
@@ -28,6 +37,8 @@ https://www.trafalgar.com/real-word/ultimate-guide-south-african-braai/
 극우정당: 아프리카너 저항 운동(AWB)\
 네오나치 당원 5000명
 
+유명한 과거의 정치인으로 넬슨 만델라는 남아공 최초의 흑인 대통령으로 남아공의 국부로서 여겨짐
+
 ### 규범
 인종 및 아파르트헤이트에 대한 논의는 매우 민감한 주제\
 물건을 받을 때 손을 컵처럼 내밀어 두 손으로 받는 것이 예의\
@@ -45,13 +56,17 @@ https://culturalatlas.sbs.com.au/south-african-culture/south-african-culture-eti
 ### 지리
 https://www.cia.gov/the-world-factbook/countries/south-africa/\
 https://www.cia.gov/the-world-factbook/countries/south-africa/summaries/\
+
+기후\
+전형적인 지중해성 기후
+
 주요 도시\
 수도가 행정, 사법, 입법의 3개로 분리되어있음\
 프리토리아(행정수도)\
 블룸폰테인(사법수도)\
 케이프타운(입법수도)\
 요하네스버그\
-두르반\
+더반\
 포트엘리자베스\
 이스트런던
 
@@ -59,6 +74,16 @@ https://www.cia.gov/the-world-factbook/countries/south-africa/summaries/\
 북부에 나미비아, 보츠와나, 짐바브웨\
 동북부에 모잠비크, 에스와티니\
 내륙국으로 레소토
+
+주요 교육시설\
+케이프타운 대학 (Cape Town University) - 케이프타운\
+비츠 대학 (Wits University) - 요하네스버그
+프리토리아 대학\
+넬슨 만델라 대학\
+스텔른보시 대학\
+나탈 대학\
+남아프리카 대학\
+로드 대학
 
 ### 안전
 강력 범죄율이 상당히 높은 편임\
