@@ -4,7 +4,7 @@
 각 문화권마다 다른 관습\
 다양성으로 인해 분류하는것은 의미가 없으며 오히려 민감한 문제임\
 식문화\
-브라이(braai) - 바베큐\
+브라이(braai) - 바베큐. 많은 사람들이 모이는 장소\
 부다보스(droewors), 빌통(biltong) - 말린 고기\
 밀크타르트 - 페이스트리 디저트\
 쿠크시스터즈(koesisters) - 꽈배기형 도넛
@@ -16,8 +16,7 @@
 주요 관심사\
 럭비, 크리켓, 축구\
 야간 스탠드업 코미디 클럽 문화가 발달되어있음\
-재즈 및 록 라이브 공연장이 많음\
-https://www.trafalgar.com/real-word/ultimate-guide-south-african-braai/
+재즈 및 록 라이브 공연장이 많음
 
 ### 정치
 기본적으로 다당제 민주주의\
@@ -54,8 +53,7 @@ https://www.trafalgar.com/real-word/ultimate-guide-south-african-braai/
 음식을 접시에 남기는 것은 호스트에 대해 부정적이라는 뜻으로 해석될 수 있음\
 눈을 마주치는것은 예의에 어긋날 수 있음\
 약속장소에는 10~30분 정도 늦게 느긋하게 나타나는 문화가 있음\
-선물을 기대하지는 않지만 술과 같은 음료를 가져오는것은 환영\
-https://culturalatlas.sbs.com.au/south-african-culture/south-african-culture-etiquette
+선물을 기대하지는 않지만 술과 같은 음료를 가져오는것은 환영
 
 ### 지리
 https://www.cia.gov/the-world-factbook/countries/south-africa/\
