@@ -75,3 +75,5 @@ https://businesstech.co.za/news/technology/740373/the-most-popular-social-media-
 https://namu.wiki/w/%ED%95%9C%EA%B5%AD-%EB%82%A8%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4%20%EA%B3%B5%ED%99%94%EA%B5%AD%20%EA%B4%80%EA%B3%84#s-6
 
 http://goldkeyeducation.com/talk-direct-link.html
+
+http://koreaneducentreinuk.org/en/teach-english-in-korea-epik-talk/
