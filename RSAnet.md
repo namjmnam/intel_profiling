@@ -37,7 +37,7 @@ https://www.facebook.com/GrooveKorea/posts/the-south-africans-in-korea-network-s
 
 https://www.groovekorea.com/article/sakornet%E2%80%99s-fifth-annual-braai-comes-nanji-park
 
-## 협력 단체
+### 협력 단체
 http://africainsight.org/
 
 https://www.k-af.or.kr/
@@ -52,6 +52,13 @@ https://www.facebook.com/groups/southafricansinkorea/
 
 https://www.internations.org/south-korea-expats/south-africans
 
+### 편의 시설
+https://blog.naver.com/higher_n_better/223213791230
+
+https://blog.naver.com/edward4389/222838009780
+
+https://blog.naver.com/higher_n_better/222980767711
+
 ### 기타
 https://www.youtube.com/watch?v=3cqiYr1Xhm8
 
@@ -62,3 +69,5 @@ https://www.sapeople.com/fab-south-african-stuff/things-to-know-when-moving-to-s
 https://www.facebook.com/groups/20417104487/posts/10161798644224488/
 
 https://namu.wiki/w/%EB%82%A8%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4%20%EA%B3%B5%ED%99%94%EA%B5%AD
+
+https://businesstech.co.za/news/technology/740373/the-most-popular-social-media-platforms-in-south-africa-3/
