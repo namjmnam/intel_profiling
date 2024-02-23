@@ -1,11 +1,13 @@
 ## 국내 남아공 관련 식별 인물/조직/환경
 ### 공공 기관
-#### 주한 남아프리카 대사관
-개요:\
-국내 
+국내 혹은 국외 위치한 공공 기관들의 목록\
+공공 행사, 문화 교류, 학회, 비즈니스 포럼 등 여러 소식을 들을 수 있는 창구가 될 수 있음\
+행사를 이용하여 네트워킹의 기회 창출 가능
 
+#### 주한 남아프리카 대사관
 이점:\
 주요 인물 식별 용이\
+주요 활동 식별 용이\
 위치 식별 용이
 
 불이점:\
@@ -13,21 +15,19 @@
 낮은 접근성
 
 #### 주남아프리카 대한민국 대사관
-개요:\
-
 이점:\
-주요 인물 식별 용이
+주요 인물 식별 용이\
+주요 활동 식별 용이
 
 불이점:\
 높은 보안\
 낮은 접근성\
 지리적 요건 불충족
 
-#### DIRCO
-개요:\
-
+#### 국제관계 및 협력부 (DIRCO)
 이점:\
-주요 인물 식별 용이
+주요 인물 식별 용이\
+주요 활동 식별 용이
 
 불이점:\
 높은 보안\
@@ -35,18 +35,20 @@
 지리적 요건 불충족
 
 ### 교류 단체
-#### 한국문화홍보서비스 (KOCIS)
-개요:\
+국내 남아공과 교류를 목적으로 개설된 단체의 목록\
+봉사활동, 혹은 친목 및 유의미한 교류를 명분으로 네트워킹 가능
 
+#### 한국문화홍보서비스 (KOCIS)
 이점:\
-주요 활동 식별 용이
+주요 인물 식별 용이\
+주요 활동 식별 용이\
+위치 식별 용이
 
 불이점:\
-자산 물색의 어려움
+특정 국가의 자산 물색 어려움\
+낮은 접근성
 
 #### 주남아공한국문화원
-개요:\
-
 이점:\
 주요 활동 식별 용이
 
@@ -54,60 +56,32 @@
 지리적 요건 불충족
 
 #### Safcham Korea
-개요:\
-
 이점:\
-주요 인물 식별 용이
+주요 인물 식별 용이\
 주요 활동 식별 용이
 
 불이점:\
-
-
-관련자료:\
-https://safchamkorea.org/dt_team/
+낮은 접근성
 
 #### SAKorNet
-개요:\
-
 이점:\
-
+주요 활동 식별 용이\
+높은 접근성
 
 불이점:\
-
-
-관련자료:\
-https://www.facebook.com/GrooveKorea/posts/the-south-africans-in-korea-network-sakornet-are-hosting-their-annual-braai-at-t/844788668939113/\
-https://www.groovekorea.com/article/sakornet%E2%80%99s-fifth-annual-braai-comes-nanji-park
+낮은 활동 빈도\
+명확한 위치 식별의 어려움\
+온라인 신분 가장 요구
 
 #### SASKOR
-개요:\
-
 이점:\
-
+주요 활동 식별 용이\
+높은 접근성
 
 불이점:\
-
-
-관련자료:\
-https://www.facebook.com/groups/saskor/?locale=ko_KR\
-https://dirco.gov.za/bilateral-relations/
-
-#### ASAK
-개요:\
-
-이점:\
-
-
-불이점:\
-
-
-관련자료:\
-https://www.linkedin.com/company/african-students-association-in-south-korea-asak\
-https://www.linkedin.com/company/african-students-association-in-south-korea-asak/about/
-
-#### 기타
-https://www.scholarshiptab.com/african-students/in/korea\
-https://www.facebook.com/groups/AfricanStu/
+낮은 활동 빈도\
+명확한 위치 식별의 어려움\
+온라인 신분 가장 요구
 
 ### 협력 단체
 #### 아프리카인사이트
@@ -134,7 +108,7 @@ http://africainsight.org/
 관련자료:\
 https://www.k-af.or.kr/
 
-### 행사
+### 기타
 #### SAF 서울아프리카페스티벌
 개요:\
 
@@ -148,7 +122,6 @@ https://www.k-af.or.kr/
 https://www.instagram.com/seoulafricafestival_official/\
 https://africafestival.kr/
 
-### 소셜 그룹
 #### 재한남아프리카인 커뮤니티
 개요:\
 
@@ -162,22 +135,6 @@ https://africafestival.kr/
 https://www.facebook.com/groups/southafricansinkorea/\
 https://www.internations.org/south-korea-expats/south-africans
 
-### 편의 시설
-#### 국내 아프리카 식당
-개요:\
-
-이점:\
-
-
-불이점:\
-
-
-관련자료:\
-https://blog.naver.com/higher_n_better/223213791230\
-https://blog.naver.com/edward4389/222838009780\
-https://blog.naver.com/higher_n_better/222980767711
-
-### 기타
 #### EPIK 프로그램
 개요:\
 
@@ -188,6 +145,5 @@ https://blog.naver.com/higher_n_better/222980767711
 
 
 관련자료:\
-http://goldkeyeducation.com/talk-direct-link.html\
 http://koreaneducentreinuk.org/en/teach-english-in-korea-epik-talk/\
 https://www.epik.go.kr/
