@@ -17,9 +17,10 @@
 높은 접근성
 
 불이점:\
-낮은 활동 빈도\
 명확한 위치 식별의 어려움\
 온라인 신분 가장 요구
+
+https://www.facebook.com/groups/SAKORNET/
 
 #### SASKOR
 이점:\
@@ -74,13 +75,14 @@ https://www.facebook.com/groups/saskor/
 대한민국 내 남아공인들의 커뮤니티
 
 이점:\
-낮은 접근성
+높은 활동 빈도
 
 불이점:\
 SNS를 통한 접근의 어려움\
-낮은 활동 빈도\
 명확한 위치 식별의 어려움\
 온라인 신분 가장 요구
+
+https://www.facebook.com/groups/southafricansinkorea/
 
 #### EPIK 프로그램
 개요:\
